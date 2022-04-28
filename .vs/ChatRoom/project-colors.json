@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be2e09a8-d07c-47f6-ad42-61574ddd1f81": {
+      "ProjectGuid": "be2e09a8-d07c-47f6-ad42-61574ddd1f81",
+      "DisplayName": "ChatRoom",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
